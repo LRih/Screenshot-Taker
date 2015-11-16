@@ -1,0 +1,6 @@
+bin/
+obj/
+Res/
+*.suo
+*.user
+*.wav
